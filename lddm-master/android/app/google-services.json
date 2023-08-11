@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060702923639",
+    "project_id": "lddm-46754",
+    "storage_bucket": "lddm-46754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060702923639:android:1487be854e3251e26c8f72",
+        "android_client_info": {
+          "package_name": "com.lddm.idosos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060702923639-6pgj8cgp03s7ed4nl7rp9vlahms33mhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBBQb6tSfWZr_tl8vEOPa46Z6dA090Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060702923639-6pgj8cgp03s7ed4nl7rp9vlahms33mhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
